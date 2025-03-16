@@ -761,7 +761,8 @@ const PDFCanvasEditor = ({
         <Button 
           variant={activeTool === 'text' ? 'default' : 'outline'} 
           size="sm"
-          className="text-sm p-1.5"
+          onClick={() => { handleToolClick('text'); handleAddText(); }}
+          className="text-sm p-1.5 bg-gray-800 hover:bg-gray-700 text-white"
         >
           <Type className="w-4 h-4" />
           <span className="hidden sm:inline ml-1">Add Text</span>
