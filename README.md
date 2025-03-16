@@ -1,6 +1,7 @@
 # Slay PDF 🚀
 
-![Slay PDF Banner](![{DE52BDCE-E43D-4ED2-AB63-ECE247D33A24}](https://github.com/user-attachments/assets/b9a7aaab-0223-40ca-95eb-ad47cac39c9a)
+![Slay PDF Banner] ![{DE52BDCE-E43D-4ED2-AB63-ECE247D33A24}](https://github.com/user-attachments/assets/7d014dcc-aa9e-467a-ba16-24f94bed8f24)
+
 ) 
 
 Slay PDF is your ultimate PDF editing tool that makes working with PDFs a breeze. With a sleek, modern interface and powerful features, you'll be slaying your PDF tasks in no time! 💅
