@@ -59,7 +59,7 @@ Slay PDF is your ultimate PDF editing tool that makes working with PDFs a breeze
 ## Tech Stack 💻
 
 - **Frontend**: React, TypeScript, Tailwind CSS
-- **PDF Handling**: pdfjs-dist, fabric.js
+- **PDF Handling**: pdfjs-dist, fabric.js, CKE Editor
 - **State Management**: React Query
 - **UI Components**: shadcn/ui
 - **Build Tool**: Vite
@@ -85,12 +85,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [shadcn/ui](https://ui.shadcn.com/) for beautiful UI components
 - CKE Editor for the text formatting
 
-## Support ☕
-
-If you find this project helpful, consider buying me a coffee to keep me coding!
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yourusername)
-
----
 
 **Slay PDF** - Because PDFs shouldn't be boring! 💅✨
