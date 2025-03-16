@@ -1,6 +1,6 @@
-# Slay PDF 🚀
+# Slay PDF 
 
-![Slay PDF Banner] ![{DE52BDCE-E43D-4ED2-AB63-ECE247D33A24}](https://github.com/user-attachments/assets/7d014dcc-aa9e-467a-ba16-24f94bed8f24)
+ ![{DE52BDCE-E43D-4ED2-AB63-ECE247D33A24}](https://github.com/user-attachments/assets/7d014dcc-aa9e-467a-ba16-24f94bed8f24)
 
 ) 
 
@@ -83,6 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [pdfjs-dist](https://mozilla.github.io/pdf.js/) for PDF rendering
 - [fabric.js](http://fabricjs.com/) for canvas manipulation
 - [shadcn/ui](https://ui.shadcn.com/) for beautiful UI components
+- CKE Editor for the text formatting
 
 ## Support ☕
 
