@@ -4,6 +4,9 @@
 
 Slay PDF is your ultimate PDF editing tool that makes working with PDFs a breeze. With a sleek, modern interface and powerful features, you'll be slaying your PDF tasks in no time! 💅
 
+## Demo Video
+[click here] (https://www.youtube.com/watch?v=_6U3BAL0pkk)
+
 ## Features ✨
 
 - **Edit PDFs like a pro** ✏️
