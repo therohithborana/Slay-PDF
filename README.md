@@ -48,7 +48,7 @@ Slay PDF is your ultimate PDF editing tool that makes working with PDFs a breeze
    # or
    yarn dev
    ```
-5. Open your browser and navigate to `http://localhost:3000`
+5. Open your browser and navigate to `http://localhost:8080`
 
 ## Usage 🛠️
 
